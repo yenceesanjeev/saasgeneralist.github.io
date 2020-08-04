@@ -1,0 +1,15 @@
+---
+layout: page
+title: About
+header: What is SaaS Generalist?
+permalink: /about/
+---
+
+
+It's just a blog but it can be much more. I bought this domain saasgeneralist.com with a vision in mind. A vision to help early stage SaaS professionals become generalists.
+
+Traditional career wisdom forces us to be specalists. We have more than enough reasons to beleive that generalists are far more successful when they form unique mental models with what they know.
+
+Personally, I've switched from support to sales to marketing to product in the last 5 years and I've benefited from being a generalist. Immensely.
+
+If this vision resonates with you, let me know. Let's do something.  

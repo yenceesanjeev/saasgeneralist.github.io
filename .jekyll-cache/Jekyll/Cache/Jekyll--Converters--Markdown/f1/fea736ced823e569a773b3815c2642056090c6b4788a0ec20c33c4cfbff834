@@ -1,0 +1,66 @@
+I"<<p>I’m not particularly proud of this but my previous <a href="https://www.saasgeneralist.com/post/how-it-feels-to-be-a-saas-customer-in-2016">blog post</a> on the same topic was kind of a rant. Hence, I decided to be productive on this one and propose a solution to the problem: Too many people reaching out to customers in a SaaS world.</p>
+
+<h2 id="how-it-works-right-now">How it works right now</h2>
+
+<p>Well, how do we solve a problem without defining it first? Well here’s how it works right now.</p>
+
+<p><img src="https://static.wixstatic.com/media/cd78de_fd790b56171d42f6b80ad3e6c25e5b88~mv2.png/v1/fill/w_940,h_456,al_c,q_90,usm_0.66_1.00_0.01/cd78de_fd790b56171d42f6b80ad3e6c25e5b88~mv2.webp" alt="Saas-current-gtm-teams" /></p>
+
+<p>Saas-current-gtm-teams</p>
+
+<p>All that clutter, yes. See why I ranted? With so many people reaching out to the customer, we’re setting ourselves up for miscommunication. In a set up like this, bad customer experience is a disaster waiting to happen.</p>
+
+<p>Let me quickly define what each of them does.</p>
+
+<p><em><strong>Sales rep:</strong></em> <em>- The first person to reach out to the prospect</em> <em>- Understands the need — suggest the right solution. Identify product fit</em> <em>- Go to person for commercial/pricing</em></p>
+
+<p><em><strong>Sales Engineer/Pre Sales</strong></em> <em>- Demos the product and showcases value to the prospect</em> <em>- Configures workflow and helps set up a Proof-Of-Concept</em> <em>-</em> Go-to <em>person for all tech assistance before</em> the <em>sales cycle</em></p>
+
+<p><em><strong>Technical Account Manager:</strong></em> <em><strong>-</strong></em> <em>Single technical point of contact for the customer(ex-prospect)</em> <em>- Manages the product technically</em> <em>- Goto person to understand how the customer’s product is configured — technically</em> <em>- If not available,</em> the s_upport team will step in_</p>
+
+<p><em><strong>Customer Success:</strong></em> <em><strong>-</strong>Proactively reaches out to understand current customer scenario</em> <em>-Reviews product usage and suggests</em> the <em>best possible ways to improve product adoption</em> <em>-Goto person to understand current customer pulse/emotion</em></p>
+
+<p><em><strong>Account Manager:</strong></em> <em><strong>-</strong></em> <em>Responsible for managing key accounts and identifying growth opportunities</em> <em>- Proactively reaches out</em> <em>- Goto person to understand if there’s potential to expand product usage across different teams/geographies or scale the current team</em></p>
+
+<h1 id="the-proposed-model">The proposed model</h1>
+
+<p>Now, I’m suggesting bringing all of that into just two people: Sales + Support.</p>
+
+<p><img src="https://static.wixstatic.com/media/cd78de_e904bba5682c4dd6be69bb660c3ca179~mv2.png/v1/fill/w_940,h_456,al_c,q_90,usm_0.66_1.00_0.01/cd78de_e904bba5682c4dd6be69bb660c3ca179~mv2.webp" alt="saas-gtm-proposed" /></p>
+
+<p>saas GTM proposed model</p>
+
+<p>Yes. Simple &amp; Neat. That’s it.</p>
+
+<p>Well, how about other teams? Let me explain how all the roles kind of merge into either Sales or Support.</p>
+
+<p><em><strong>The new Sales:</strong></em> <em><strong>-</strong></em> <em>Takes up part of the Sales Engineer’s role of demoing the product, showcasing</em> the <em>value and suggesting workflows</em> <em>- Works with Support to set up a Proof-Of-Concept if required</em> <em>- Constantly engages with the customer to identify growth opportunities thus eliminating the need for a separate Account Manager</em></p>
+
+<p><em><strong>The new Support:</strong></em> <em><strong>-</strong></em> <em>Provides Technical support to Sales during the evaluation phase eliminating the need or a Sales Engineer</em> <em>- Sets up workflows and the product</em> pre-sales <em>and manages it</em> post-sales <em>- Proactively reaches out to understand product usage and suggest ways to improve product usage</em> <em>- Works with Sales on new growth opportunities if they come up</em></p>
+
+<h2 id="what-are-the-potential-advantages">What are the potential advantages?</h2>
+
+<p><strong>Minimal or No information loss:</strong> Customers get annoyed when they have to repeat themselves. Workflows and technical information are the ones likely to get lost during Pre to Post sales transition. This can be fully eliminated as it’s the same person setting it up.</p>
+
+<p><strong>Better Customer experience:</strong> Customers work a lot with SalesEngineer and Sales to explain their business needs and set things up the way they want it. Once the Sales cycle ends, they’re forced to give up on the relationship and suddenly work with a new set of people. Customers can work with the same set of people right from the point of evaluation until they leave(or not)</p>
+
+<p><strong>No room for miscommunication:</strong> The more people you put between people and people, the more chances of miscommunication. It can lead to a bad experience on both the customer and the employee side. Teams tend to exist within silos and it takes a huge effort to break them down. Fewer teams, fewer silos, lesser effort.</p>
+
+<h2 id="ideal-candidates">Ideal candidates</h2>
+
+<p>So, what kind of people should you be looking for?</p>
+
+<p><em><strong>Sales:</strong></em> <em>- Strong communication /relationship building skills</em> <em>- Strong Problem solving skills</em> <em>- Good business/industry knowledge</em> <em>- A true consultant</em></p>
+
+<p><em><strong>Support:</strong></em> <em>- Strong technical/domain skills</em> <em>- Decent communication</em> <em>- Empathetic, patient and friendly</em> <em>- Ability to preempt problems</em></p>
+
+<h2 id="potential-objections">Potential objections</h2>
+
+<p>Of course, a new method, a new approach. Things aren’t going to be easy. I’ve tried to answer FAQs on this approach.</p>
+
+<p><strong>Won’t my Sales bandwidth reduce if they’re working on demos as well?</strong> A simple answer to that would be to add more people to the team. Think about it. When the leads increase, you add people to the Sales team and when you grow the Sales team, you add people to the Pre Sales team. Now, you’re just adding people 1 team instead of two.</p>
+
+<p><strong>If my Sales team is engaging with old customers, how can we get new revenue?</strong> Not always. It will majorly be the Support team that engages with the customer and the Sales team will only engage with them from time to time — proactively. It’s always better to keep in touch with your customers and who knows: if you keep them happy, they might get you a bunch of new referrals. Earlier, 1 account manager used to do it for about 3 Sales Reps leads. I’m just proposing everyone does Account management for their own accounts.</p>
+
+<p>The above model is just an idea and may not be fully scalable. It might sound silly but who knows, maybe that’s what people think initially when unconventional ideas are brought up :)</p>
+:ET
