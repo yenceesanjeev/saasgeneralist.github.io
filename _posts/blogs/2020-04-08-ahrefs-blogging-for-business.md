@@ -5,6 +5,7 @@ date:   2018-10-31
 image:  images/01.jpg
 tags:   [Marketing]
 permalink: /post/learnings-from-blogging-for-business-course-by-ahrefs-academy
+categories: blog
 ---
 
 _Disclaimer: The learnings are from this course —_ [_Blogging for Business_](https://ahrefs.com/academy/blogging-for-business)_. I highly encourage everyone to take the course for full learnings. I took down these notes for myself. Sharing it here to see if a wider audience benefit from it_

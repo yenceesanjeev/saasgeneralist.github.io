@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  Hey Customer Support, what the hell is wrong with you?
+title:  Here’s why I think every Wednesday should be a working holiday
 date:   2020-01-15
 image:  images/05.jpg
 tags:   [Go-To-Market]
-permalink: /post/hey-customer-support-what-the-hell-is-wrong-with-you
+permalink: /post/here-s-why-i-think-every-wednesday-should-be-a-working-holiday
+categories: blog
 ---
 
 

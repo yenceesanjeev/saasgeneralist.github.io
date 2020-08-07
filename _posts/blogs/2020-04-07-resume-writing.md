@@ -5,6 +5,7 @@ date:   2020-04-07
 image:  images/10.jpg
 tags:   [Career]
 permalink: /post/top-7-tips-for-writing-a-resume-in-2020
+categories: blog
 ---
 
 # Top 7 tips for writing a resume in 2020

@@ -5,6 +5,7 @@ date:   2020-03-28
 image:  images/02.jpg
 tags:   [Culture]
 permalink: /post/work-vacations-secret-ingredient-to-creative-solutions
+categories: blog
 ---
 
 

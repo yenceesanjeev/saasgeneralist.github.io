@@ -5,6 +5,7 @@ date:   2020-02-05
 image:  images/05.jpg
 tags:   [Go-To-Market]
 permalink: /post/how-it-feels-to-be-a-saas-customer
+categories: blog
 ---
 
 

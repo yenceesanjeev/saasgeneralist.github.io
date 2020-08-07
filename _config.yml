@@ -11,17 +11,18 @@ author:
 
 # Contact links
 twitter: https://twitter.com/yenceesanjeev # Add your Twitter handle
-facebook: https://facebook.com/ # Add your Facebook handle
-dribbble: https://dribbble.com/ # Add your Dribbble handle
-instagram: https://instagram.com/ # Add your Instagram handle
-pinterest: https://pinterest.com/ # Add your Pinterest handle
-email: forexample@website.com # Add your Email address
+linkedin: https://www.linkedin.com/in/sanjeev-nc/
+facebook:  # Add your Facebook handle
+dribbble: # Add your Dribbble handle
+instagram: # Add your Instagram handle
+pinterest: # Add your Pinterest handle
+email: yenceesanjeev # Add your Email address
 
 # Hero Section
 hero: false # To enable the section hero, use the value true. To turn off use the value false.
 hero-title: SaaS Generalist # Add your hero title
 hero-subtitle: For those who love simplicity # Add your hero subtitle
-hero-image: images/14.jpg # Add background image in section hero
+hero-image:  # Add background image in section hero
 
 # Footer
 footer-image:  # Add background image in footer
@@ -43,8 +44,12 @@ plugins:
   - jekyll-sitemap
   - jekyll/tagging
 
-paginate: 4
+paginate: 20
 paginate_path: "/page/:num"
+
+collection:
+  dailys:
+    output: true
 
 # Pages Path
 defaults:

@@ -5,6 +5,7 @@ date:   2020-04-06
 image:  images/07.jpg
 tags:   [Product]
 permalink: /post/thank-you-netflix-you-ve-ruined-hotstar-for-me
+categories: blog
 ---
 
 Hotstar would’ve been perfectly fine for me — if not for Netflix.

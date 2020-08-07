@@ -5,6 +5,7 @@ date:   2020-01-25
 image:  images/05.jpg
 tags:   [Go-To-Market]
 permalink: /post/how-arsenal-s-stadium-tour-can-teach-saas-companies-to-close-deals
+categories: blog
 ---
 
 I recently went on a Studio tour at the Emirates stadium. My experience of the entire tour deserves another blog post of its own but the major focus of this one is a simple yet _very_ effective Sales technique that ‘WoW’ed me and made me spend 20£ (an important outcome of a Sales technique)

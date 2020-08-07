@@ -5,6 +5,7 @@ date:   2020-02-26
 image:  images/04.jpg
 tags:   [Go-To-Market]
 permalink: /post/ban-product-demos-let-s-call-them-conversations
+categories: blog
 ---
 
 Being a Sales Engineer, I spend most of my time demoing. Having demoed so many times, I find it surprising that now I can demo without practice, without effort. Demoing has become like brushing my teeth — I get on a call and it happens automatically.

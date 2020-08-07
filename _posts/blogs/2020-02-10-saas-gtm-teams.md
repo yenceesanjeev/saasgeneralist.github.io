@@ -5,6 +5,7 @@ date:   2020-02-10
 image:  images/05.jpg
 tags:   [Go-To-Market]
 permalink: /post/how-many-saas-gtm-teams-should-you-have-hint-2
+categories: blog
 ---
 
 I’m not particularly proud of this but my previous [blog post](https://www.saasgeneralist.com/post/how-it-feels-to-be-a-saas-customer-in-2016) on the same topic was kind of a rant. Hence, I decided to be productive on this one and propose a solution to the problem: Too many people reaching out to customers in a SaaS world.

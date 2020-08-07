@@ -5,6 +5,7 @@ date:   2020-03-15
 image:  images/03.jpg
 tags:   [Culture]
 permalink: /post/here-s-why-every-customer-interaction-is-as-delicate-as-your-first-date
+categories: blog
 ---
 I remember my first date. Nervous, sweaty palms and my mind running through 100 possible things to say. Every word that comes out of my mouth is going to count. Every word.
 

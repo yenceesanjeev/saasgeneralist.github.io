@@ -1,0 +1,68 @@
+.daily-list {
+  list-style-type: none;
+  margin: 0 280px 50px 280px;
+
+  h4 {
+     margin-bottom: 0px;
+  }
+
+.accordion {
+background-color: #fff;
+color: $dark;
+cursor: pointer;
+padding: 18px;
+width: 100%;
+text-align: left;
+border: none;
+outline: none;
+transition: 0.4s;
+height: 60px;
+}
+
+.accordion:after {
+  content: '\002B';
+  color: black;
+  font-weight: bold;
+  float: right;
+  margin-left: 5px;
+  font-size: xx-large;
+  transform: translateY(-29px)
+}
+
+.active:after {
+  content: "\2212";
+  color: white
+}
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.active, .accordion:hover {
+background-color: $link-color-hover;
+color: $light-gray;
+}
+
+/* Style the accordion panel. Note: hidden by default */
+.panel {
+  padding: 0 18px;
+  background-color: white;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
+
+}
+
+@media only screen and (max-width: 800px) {
+  .daily-list {
+    list-style-type: none;
+    margin: 0 20px 50px 20px;
+
+  }
+
+  .accordion {
+  background-color: white;
+  color: black;
+  }
+
+
+  margin-bottom: 50px;
+}

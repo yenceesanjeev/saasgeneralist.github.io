@@ -16,6 +16,20 @@
   <!-- Ionicons -->
   <link href="https://unpkg.com/ionicons@4.2.2/dist/css/ionicons.min.css" rel="stylesheet">
 
+  <!-- Twitter cards -->
+     <meta name="twitter:site"    content="@{{ site.twitter_username }}">
+     <meta name="twitter:creator" content="@{{ page.author }}">
+     <meta name="og:title"   content="{{ page.title }}">
+
+     {% if page.image %}
+     <meta name="twitter:card"  content="summary_large_image">
+     <meta name="image" property="og:image" content="{{ page.ogimage }}">
+     <meta name="twitter:image" content="{{ page.ogimage }}">
+     {% else %}
+     <meta name="twitter:card"  content="summary">
+     <meta name="twitter:image" content="{{ site.title_image }}">
+     {% endif %}
+     <!-- end of Twitter cards -->
   <style>
   {% capture include_to_scssify %}
     {% include main.scss %}

@@ -5,6 +5,7 @@ date:   2020-01-28
 image:  images/05.jpg
 tags:   [Culture]
 permalink: /post/don-t-call-me-i-won-t-pick-up-the-phone
+categories: blog
 ---
 
 

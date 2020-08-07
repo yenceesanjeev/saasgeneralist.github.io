@@ -5,6 +5,7 @@ date:   2020-04-06
 image:  images/08.jpg
 tags:   [Culture]
 permalink: /post/why-do-introverts-get-annoyed-at-workplace
+categories: blog
 ---
 
 Having placed myself in the ambivert spectrum, it took me a while to discover that I’m an introvert for the most part. I realized that I was annoyed most of the time at work and couldn’t figure out why.
