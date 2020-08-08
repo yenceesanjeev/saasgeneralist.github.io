@@ -2,7 +2,7 @@
 layout: post
 title:  Why do Introverts get annoyed at workplace?
 date:   2020-04-06
-image:  images/08.jpg
+image:  images/introverts-annoyed.png
 tags:   [Culture]
 permalink: /post/why-do-introverts-get-annoyed-at-workplace
 categories: blog

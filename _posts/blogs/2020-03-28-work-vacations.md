@@ -2,7 +2,7 @@
 layout: post
 title:  Work vacations — secret ingredient to creative solutions?
 date:   2020-03-28
-image:  images/02.jpg
+image:  images/work-vacations-blog-cover.jpg
 tags:   [Culture]
 permalink: /post/work-vacations-secret-ingredient-to-creative-solutions
 categories: blog

@@ -2,7 +2,7 @@
 layout: post
 title:  How Arsenal’s stadium tour can teach SaaS companies to close deals
 date:   2020-01-25
-image:  images/05.jpg
+image:  images/arsenal-blog-cover.jpeg
 tags:   [Go-To-Market]
 permalink: /post/how-arsenal-s-stadium-tour-can-teach-saas-companies-to-close-deals
 categories: blog

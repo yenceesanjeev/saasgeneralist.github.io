@@ -2,7 +2,7 @@
 layout: post
 title:  Learnings from “Blogging for Business” course by Ahrefs Academy
 date:   2018-10-31
-image:  images/01.jpg
+image:  images/blogging-for-business.jpg
 tags:   [Marketing]
 permalink: /post/learnings-from-blogging-for-business-course-by-ahrefs-academy
 categories: blog

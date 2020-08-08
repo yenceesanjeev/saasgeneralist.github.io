@@ -2,13 +2,11 @@
 layout: post
 title:  Top 7 tips for writing a resume in 2020
 date:   2020-04-07
-image:  images/10.jpg
+image:  images/resume-writing.jpg
 tags:   [Career]
 permalink: /post/top-7-tips-for-writing-a-resume-in-2020
 categories: blog
 ---
-
-# Top 7 tips for writing a resume in 2020
 
 I haven't touched my resume in years. I went back to my old resume. Let's just say that "disappointed with my younger self" is an understatement. I've spent a good chunk of my time in the last 4 years interviewing people and that's taught me a lot about what interviewers look for.
 

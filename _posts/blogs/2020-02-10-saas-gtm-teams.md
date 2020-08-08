@@ -2,7 +2,7 @@
 layout: post
 title:  How many SaaS GTM teams should you have? Hint - 2
 date:   2020-02-10
-image:  images/05.jpg
+image:  images/saas-gtm-teams.jpg
 tags:   [Go-To-Market]
 permalink: /post/how-many-saas-gtm-teams-should-you-have-hint-2
 categories: blog

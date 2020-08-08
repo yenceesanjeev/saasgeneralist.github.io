@@ -2,7 +2,7 @@
 layout: post
 title:  Failed Printer and the Certified Usability Analyst
 date:   2020-04-06
-image:  images/09.jpg
+image:  images/failed-printer-blog-cover.png
 tags:   [Product]
 permalink: /post/failed-printer-and-the-certified-usability-analyst
 categories: blog

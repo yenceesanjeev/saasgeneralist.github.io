@@ -2,7 +2,7 @@
 layout: post
 title:  Thank you, Netflix. You’ve ruined Hotstar for me.
 date:   2020-04-06
-image:  images/07.jpg
+image:  images/netflix-blog-cover.png
 tags:   [Product]
 permalink: /post/thank-you-netflix-you-ve-ruined-hotstar-for-me
 categories: blog

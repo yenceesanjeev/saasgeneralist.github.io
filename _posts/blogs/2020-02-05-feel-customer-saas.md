@@ -2,7 +2,7 @@
 layout: post
 title:  How it feels to be a SaaS customer
 date:   2020-02-05
-image:  images/05.jpg
+image:  images/how-it-feels-to-be-customer-blog-cover.jpeg
 tags:   [Go-To-Market]
 permalink: /post/how-it-feels-to-be-a-saas-customer
 categories: blog

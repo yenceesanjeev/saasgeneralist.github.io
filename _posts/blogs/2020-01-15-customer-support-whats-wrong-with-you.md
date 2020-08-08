@@ -2,7 +2,7 @@
 layout: post
 title:  Hey Customer Support, what the hell is wrong with you?
 date:   2020-01-15
-image:  images/05.jpg
+image:  images/annoyed-customer-support.jpg
 tags:   [Go-To-Market]
 permalink: /post/hey-customer-support-what-the-hell-is-wrong-with-you
 categories: blog

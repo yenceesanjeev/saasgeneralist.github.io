@@ -2,7 +2,7 @@
 layout: post
 title:  Here’s why I think every Wednesday should be a working holiday
 date:   2020-01-15
-image:  images/05.jpg
+image:  images/wednesday-blog-cover.png
 tags:   [Go-To-Market]
 permalink: /post/here-s-why-i-think-every-wednesday-should-be-a-working-holiday
 categories: blog

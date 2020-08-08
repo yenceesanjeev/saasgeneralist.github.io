@@ -2,7 +2,7 @@
 layout: post
 title:  Ban “Product demos” — Let’s call them conversations
 date:   2020-02-26
-image:  images/04.jpg
+image:  images/ban-product-demos-blog-cver.jpeg
 tags:   [Go-To-Market]
 permalink: /post/ban-product-demos-let-s-call-them-conversations
 categories: blog
