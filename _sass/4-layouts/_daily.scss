@@ -1,10 +1,16 @@
+.daily-container {
+  margin: 0 280px 50px 280px;
+
+}
+
 .daily-list {
   list-style-type: none;
-  margin: 0 280px 50px 280px;
+
 
   h4 {
      margin-bottom: 0px;
   }
+
 
 .accordion {
 background-color: #fff;
@@ -52,15 +58,26 @@ color: $light-gray;
 }
 
 @media only screen and (max-width: 800px) {
-  .daily-list {
-    list-style-type: none;
+  .daily-container  {
     margin: 0 20px 50px 20px;
+    h4 {
+      font-size: smaller;
+    }
+
+    ul {
+      margin-left: 0
+    }
 
   }
 
   .accordion {
   background-color: white;
   color: black;
+  }
+
+  accordion:after {
+    font-size: x-large;
+
   }
 
 
