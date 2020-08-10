@@ -1,0 +1,27 @@
+---
+layout: default
+---
+<div class = "tweet-container">
+<ul class = "tweet-list">
+	{% for tweet in site.data.tweets %}
+<li>
+
+
+
+<blockquote class="twitter-tweet"><a href="https://twitter.com/x/status/{{ tweet.tweet_id }}"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+	</li>
+	{% endfor %}
+
+</ul>
+
+
+</div>
+				{% if site.disqus-identifier %} {% include disqus-comments.html %} {% endif %}
+
+			</article>
+			<!-- end post -->
+		</div>
+	</div>
+</div>
