@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What If" situations suck
+title:  What If situations suck
 date:   2020-01-15
 permalink: /daily/what-if-situations
 categories: daily
