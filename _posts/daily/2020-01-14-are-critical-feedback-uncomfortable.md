@@ -1,0 +1,25 @@
+---
+layout: post
+title:  Are critical feedback conversations uncmofortable?
+date:   2020-01-15
+permalink: /daily/critical-feedback-conversations-uncomfortable
+categories: daily
+---
+Are critical feedback conversations with your team uncomfortable? That's probably because you haven't appreciated them enough
+
+An appreciation culture will earn you the right to give critical feedback as often as you want to because when delivered in tandem, it simply becomes 'feedback'.
+
+How do you foster an appreciation culture?
+
+1) Appreciate small things, doesn't cost much
+A good support reply, great blog title, brilliant choice of colors, useful comments in the code - these are small things that often go unappreciated.
+
+2) Appreciate asynchronously
+Don't wait till 1on1s to appreciate. Leave google doc comments, send short emails/texts, leave positive voice notes or maybe even social media replies.
+
+3) DON'T appreciate mediocrity
+Appreciating culture doesn't mean you appreciate for the sake of appreciation. It's simply to foster a culture of appreciating things that are worthy but often ignored.
+
+The moment you repeatedly appreciate a person for their positive behavior, critical feedback won't seem out of place.
+
+If you only single out their flaws everytime (even with good intentions), they tend to fixate on that. They think "Why does every conversation seem to be about what I can improve? Am I not doing anything right?"

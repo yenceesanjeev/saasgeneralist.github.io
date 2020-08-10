@@ -1,0 +1,25 @@
+---
+layout: post
+title:  Think about these when you're posting on social media
+date:   2020-01-15
+permalink: /daily/posting-on-social-media
+categories: daily
+---
+Posting on social media is easy, yet difficult. Very easy to get lost in metrics like likes, shares, comments and #trending' posts. These are outcomes, not objectives.
+
+Instead, focus on:
+
+1) Value over Virality
+Virality is overrated. A stolen meme, inspired quote, frustrated rant or controversial opinions can all get you virality. Focus on providing value to the readers. Value can come from - new perspectives, collated information or simply making someone smile.
+
+2) Consistency over Quality
+Well, don't post awful content just for consistency, that's not gonna help. Share valuable content at regular intervals. Don't worry about perfect grammar, fancy words or groundbreaking thoughts. Just content that /someone/ might find useful. That's all.
+
+3) Actionable over Ambiguous
+"Never stop learning" - yes, all of us know it. We need to know HOW. Focus on sharing actionable tips over things that people already know.
+
+4) Natural over Cliches
+Not everything need to be delivered through a poem, or a well designed Canva poster. Post content like how you would text someone.
+
+5) Revisit over Innovate
+Don't force yourself to think of new stuff everyday. Something you shared a month or two ago would've evolved in your own mind. Revisit that and reiterate.

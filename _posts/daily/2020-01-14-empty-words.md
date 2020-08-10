@@ -1,0 +1,20 @@
+---
+layout: post
+title:  Watch out for these empty words in career conversations
+date:   2020-01-15
+permalink: /daily/empty-words-career-conversation
+categories: daily
+---
+
+If you're using them to describe your career, then you need to dig deeper to understand what you mean
+
+"There is no growth"
+If you're looking at growth from a promotion and hike POV, you'll always be disappointed because there's always one more ladder to climb. Inside your head, define what 'growth' really means and evaluate against those.
+
+"It's not challenging"
+No job or role is challenging in itself. So if you think some other company or role is going to give you a challenge, it may not. If you want challenges, you'll have to stretch your boundaries right where you are.
+
+"I'm not passionate about this"
+Passion is overrated, at workplace. Our first jobs are typically the ones we never imagined we'd be doing. But yet, here we are. For the first few years, just put your head down and work. If you do find your passion, devote some time to it as a side hustle.
+
+These words gets thrown around very casually. They have become part of our workplace vocabulary but they may not be the accurate choice of words

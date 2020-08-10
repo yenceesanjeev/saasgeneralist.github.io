@@ -2,7 +2,7 @@
 layout: post
 title:  Single page resumes should become the default
 date:   2020-01-15
-permalink: /daily/here-s-why-i-think-every-wednesday-should-be-a-working-holiday
+permalink: /daily/single-page-resume
 categories: daily
 ---
 
