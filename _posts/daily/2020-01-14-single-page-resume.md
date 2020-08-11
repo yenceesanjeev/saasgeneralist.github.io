@@ -15,7 +15,7 @@ Include:
 - Summary: 5 - 7 words
 - Past experience: 3 key points under a role, 7 - 9 words in a point
 - Awards, rewards & external validation
-- Showcase your work (Portfolio, Blog, GitHub)
+- Showcase yourd work (Portfolio, Blog, GitHub)
 - Educational qualification: 1 line. Include in header if you can
 - Significant certifications: Think twice before including that Udemy course
 - A headshot
