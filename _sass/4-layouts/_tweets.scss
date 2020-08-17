@@ -5,9 +5,13 @@
 .tweet-list {
   list-style-type: none;
   display: flex;
+  flex-direction: row;
+  flex-flow: wrap;
+
+
     li {
       margin: 10px;
-      width: 40%
+      width: 30%
 
         }
     }

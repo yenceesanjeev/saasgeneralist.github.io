@@ -28,7 +28,7 @@
   line-height: 18px;
   letter-spacing: 0.5px;
   color: $gray;
-  
+
   a {
     display: inline-block;
     color: lighten($dark, 10%);
@@ -45,7 +45,7 @@
     content: ",";
     display: inline-block;
   }
-  
+
   &:last-child {
     &:after {
       content: "";
