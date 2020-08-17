@@ -9,7 +9,7 @@
   margin-top: 80px;
   padding-bottom: 20px;
   border-bottom: 1px solid $light-gray;
-  
+
   .header__overlay {
     position: fixed;
     top: 0;
@@ -64,7 +64,7 @@
       display: inline-block;
       margin-right: 5px;
     }
-  
+
     .nav__link {
       position: relative;
       display: inline-block;
@@ -79,7 +79,7 @@
           height: 100%;
         }
       }
-      
+
       &:after {
         content: "";
         position: absolute;
@@ -93,7 +93,7 @@
       }
     }
   }
-  
+
   .nav__close {
     display: none;
   }
@@ -104,12 +104,12 @@
 .nav-buttons {
   margin-left: 10px;
   line-height: initial;
-  
-  .nav__icon {  
+
+  .nav__icon {
     &:first-child {
       margin-right: 10px;
     }
-    
+
     font-size: 20px;
     cursor: pointer;
   }
@@ -140,7 +140,7 @@
     &.is-open {
       right: 0;
     }
-  
+
     .nav__list {
       padding: 50px 30px 30px;
 
@@ -148,13 +148,17 @@
         display: block;
         margin-right: 0;
       }
-  
+
+      .nav__item:last-child {
+        display: none;
+      }
+
       .nav__link {
         display: block;
         margin: 20px 0;
         padding: 10px 0;
         text-align: center;
-        
+
         &.is-active {
           margin: 20px 0;
           padding: 10px 15px;
