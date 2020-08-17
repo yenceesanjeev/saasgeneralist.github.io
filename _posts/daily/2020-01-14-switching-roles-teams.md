@@ -1,33 +1,32 @@
 ---
 layout: post
-title:  Single page resumes should become the default
+title:  When should you switch roles?
 date:   2020-01-15
-permalink: /daily/single-page-resume
+permalink: /daily/switching-roles-teams
 categories: daily
 ---
+Switching roles/teams early in your career is under-appreciated, sometimes even actively discouraged. If done for the right reasons, could be the best thing ever
 
+DO consider switching teams when:
 
+1) You know it's not your calling
+You'll just know. But give it 6 months to a year before you decide.
 
-Why?
-- Recruiters scan resume, they don't have time to read them
+2) You've gained at least 60% mastery
+People on the team constantly ask you for your opinion. You've executed a major project.
 
-Include:
-- Summary: 5 - 7 words
-- Past experience: 3 key points under a role, 7 - 9 words in a point
-- Awards, rewards & external validation
-- Showcase your work (Portfolio, Blog, GitHub)
-- Educational qualification: 1 line. Include in header if you can
-- Significant certifications: Think twice before including that Udemy course
-- A headshot
-- Contact details
+3) It contributes to a long term goal
+eg. You want to be a divisional head 5 years from now. You're currently in marketing and you want to switch to sales to master that skill
 
-Exclude:
-- Objective: Everyone knows you want to join a fast growing company that can accelerate your career growth
-- Marks: No one cares
-- Personal details
-- Detailed explanations about all the projects you've worked on, save it for the phone call
-- Words like "Excellent", "Exceptional" & "Successful". Use proof points, instead
+DON'T consider switching teams when:
 
-Don't worry about leaving out many details. Just look at the job description of the role and include only what's relevant for the role (Use the same words from the job description, if you can)
+1) You're bored of the job
+You'll risk your credibility. It's also a sign of immaturity. No guarantee you won't be bored of the next role
 
-The goal of a #resume is to make the recruiter curious enough to give you a call. It's not for you to land the job.
+2) You're attracted by a different role/team
+Common mistake. If the team change attraction is inbound (you saw their work/team and you want to be part of it), it's never for the right reasons. Dig deeper
+
+3) You know it's your calling
+If you know this is what you want to do for the rest of your life, stick to it. Don't switch teams because "I've bene doing this for a while"
+
+The biggest benefit of switching is you fully understand a vertical. 10x better than reading a blog post about it.
