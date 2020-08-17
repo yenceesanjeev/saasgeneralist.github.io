@@ -27,12 +27,17 @@
     margin: 0 20px 50px 20px;
 
     ul {
-      margin-left: 0
+      margin-left: 0;
+      list-style-type: none;
+
     }
 
   }
 
 .tweet-list {
   margin-bottom: 50px;
+  flex-direction: column;
+  flex-flow: wrap;
+  display:block;
 }
 }
