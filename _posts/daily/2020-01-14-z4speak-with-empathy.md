@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  How's it going > Is it done?
+title:  Alternatives to rude things you might say
 date:   2020-01-15
 permalink: /daily/speak-with-empathy
 categories: daily

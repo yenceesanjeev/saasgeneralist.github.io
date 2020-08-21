@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 <div class = "tweet-container">
 <ul class = "tweet-list">
 	{% for tweet in site.data.tweets %}
@@ -18,10 +19,4 @@ layout: default
 
 
 </div>
-				{% if site.disqus-identifier %} {% include disqus-comments.html %} {% endif %}
-
-			</article>
-			<!-- end post -->
-		</div>
-	</div>
-</div>
+		
