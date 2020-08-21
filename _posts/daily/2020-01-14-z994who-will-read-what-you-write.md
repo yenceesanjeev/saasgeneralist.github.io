@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Who will read what you write?
+title:  Are you thinking "No one's gonna read my writing"
 date:   2020-01-15
 permalink: /daily/who-will-read-what-you-write
 categories: daily
