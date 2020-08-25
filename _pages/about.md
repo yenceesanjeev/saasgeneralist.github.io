@@ -5,11 +5,12 @@ header: What is SaaS Generalist?
 permalink: /about/
 ---
 
+I have a vision.
 
-It's just a blog but it can be much more. I bought this domain saasgeneralist.com with a vision in mind. A vision to help early stage SaaS professionals become generalists.
+To build more generalists in the Indian SaaS ecosystem, especially among those in their early career.
 
 Traditional career wisdom forces us to be specalists. We have more than enough reasons to beleive that generalists are far more successful when they form unique mental models with what they know.
 
-Personally, I've switched from support to sales to marketing to product in the last 5 years and I've benefited from being a generalist. Immensely.
+Today, saasgeneralist.com is simply a blog where I document my ideas. But it can be much bigger.
 
-If this vision resonates with you, let me know. Let's do something.  
+If this vision resonates with you, send me an email at yenceesanjeev@gmail.com. Let's do something.
