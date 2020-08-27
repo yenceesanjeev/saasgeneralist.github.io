@@ -13,4 +13,4 @@ Traditional career wisdom forces us to be specalists. We have more than enough r
 
 Today, saasgeneralist.com is simply a blog where I document my ideas. But it can be much bigger.
 
-If this vision resonates with you, send me an email at yenceesanjeev@gmail.com. Let's do something.
+If this vision resonates with you, [fill this out](https://yenceesanjeev.typeform.com/to/Oci2ti0o) and let's do something about it!

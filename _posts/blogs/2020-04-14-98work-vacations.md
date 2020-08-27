@@ -56,4 +56,4 @@ P.S If you are in a position to implement such a policy in your org but think th
 
 
 
-![](https://static.wixstatic.com/media/cd78de_8cdaf29e56b4472d839939bd8e19a9b9~mv2.png/v1/fill/w_740,h_1316,al_c,q_90,usm_0.66_1.00_0.01/cd78de_8cdaf29e56b4472d839939bd8e19a9b9~mv2.webp)
+![](images/workvacationblog/1.webp)

@@ -24,17 +24,13 @@ I’ve been reading articles online to understand if this is a common scenario a
 
 Introverts do not enjoy talking to people(though they might be extremely good at it) and the idea of doing it for a living is not exactly thrilling for them. If their calendar is filled with calls and meetings, try to see if you can take one or two off. Even if you can’t, please don’t add more to it! Introverts prefer email or text communication as it gives them the liberty to respond at their own time. Unless a call or a meeting is absolutely necessary, don’t pull an introvert off his desk to be there.
 
-
-
-
-
-![](https://static.wixstatic.com/media/cd78de_e7e4f8faa32147c78d1c93fbadb9db87~mv2.png/v1/fit/w_300,h_300,al_c,q_5/file.png)![](https://static.wixstatic.com/media/cd78de_e7e4f8faa32147c78d1c93fbadb9db87~mv2.png/v1/fill/w_736,h_432,al_c,lg_1,q_90/cd78de_e7e4f8faa32147c78d1c93fbadb9db87~mv2.webp)
+![](/images/introvertblog/1.webp)
 
 ### Work is like sleep
 
 Imagine this, you go to bed and it takes 20 minutes for you to doze off. You’ve been sleeping for 10 minutes and someone wakes you up. You curse them but you can’t go back to sleep immediately but it’s going to take the same 20 minutes(if not more) for you to go back to sleep. Work is no different(at least for introverts). It takes a while for introverts to get into **“Productivity Zone”** and once they’re in it, they’ll be on a roll. But if they’re interrupted or disturbed(an email, a ping, a call or a meeting), they’ll lose the flow and they might not finish what they were doing and move on to something else.
 
-![](https://static.wixstatic.com/media/cd78de_36bd06a175f045dd911fcb506df5112e~mv2.png/v1/fit/w_300,h_300,al_c,q_5/file.png)![](https://static.wixstatic.com/media/cd78de_36bd06a175f045dd911fcb506df5112e~mv2.png/v1/fill/w_740,h_372,al_c,lg_1,q_90/cd78de_36bd06a175f045dd911fcb506df5112e~mv2.webp)
+![](/images/introvertblog/2.webp)
 
 Interrupt an Introvert on a laptop(with headphones plugged in) at your own risk. For all you know, he/she could be thinking of the next great idea to save the world.
 

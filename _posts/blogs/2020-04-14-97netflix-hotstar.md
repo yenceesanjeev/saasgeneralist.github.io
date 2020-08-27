@@ -55,8 +55,9 @@ On Hotstar, I had to search (the search algorithm sucks btw) for what I want, na
 On Netflix, if I wanted to watch something I could simply watch it.
 
 
-
+{:refdef: style="text-align: center;"}
 ![](https://static.wixstatic.com/media/cd78de_86f017fe93784e1e92c4d1dffad8961d~mv2.png/v1/fill/w_360,h_564,al_c,q_90,usm_0.66_1.00_0.01/cd78de_86f017fe93784e1e92c4d1dffad8961d~mv2.webp)
+{: refdef}
 
 I’ll sum it up subtly without hurting anyone’s feelings— Netflix is something I can watch. Hotstar is something I have to use. **What if Netflix didn’t exist?** I would’ve loved Hotstar. If there was no Netflix, this blog would probably be about why Hotstar is the best thing to have to happen to me. Hotstar does have some AMAZING content!
 

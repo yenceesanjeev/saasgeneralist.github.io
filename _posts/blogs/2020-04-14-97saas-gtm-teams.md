@@ -16,7 +16,7 @@ I’m not particularly proud of this but my previous [blog post](https://www.saa
 
 Well, how do we solve a problem without defining it first? Well here’s how it works right now.
 
-![Saas-current-gtm-teams](https://static.wixstatic.com/media/cd78de_fd790b56171d42f6b80ad3e6c25e5b88~mv2.png/v1/fill/w_940,h_456,al_c,q_90,usm_0.66_1.00_0.01/cd78de_fd790b56171d42f6b80ad3e6c25e5b88~mv2.webp)
+![Saas-current-gtm-teams](/images/saasgtm/1.webp)
 
 Saas-current-gtm-teams
 
@@ -50,7 +50,7 @@ Now, I’m suggesting bringing all of that into just two people: Sales + Support
 
 
 
-![saas-gtm-proposed](https://static.wixstatic.com/media/cd78de_e904bba5682c4dd6be69bb660c3ca179~mv2.png/v1/fill/w_940,h_456,al_c,q_90,usm_0.66_1.00_0.01/cd78de_e904bba5682c4dd6be69bb660c3ca179~mv2.webp)
+![saas-gtm-proposed](/images/saasgtm/2.webp)
 
 saas GTM proposed model
 
