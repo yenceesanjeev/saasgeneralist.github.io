@@ -1,6 +1,6 @@
 title: SaaS Generalist
 logo: "images/logo.svg" # You can add own logo image.
-description: Minimalistic Theme for Jekyll
+description: SaaS Generalist is an attempt to build more generalists amongst the early stage SaaS employees
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "https://pensive-neumann-441e47.netlify.app/" # The base hostname & protocol for your site, e.g. http://example.com
 
