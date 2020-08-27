@@ -29,6 +29,7 @@ Note: This page won't be rendered on mobile because the page load time is extrem
 This website was built by [me](https://www.linkedin.com/in/sanjeev-nc/). This is the first website that I've learnt to build and deploy on my own.
 
 Credits:
-https://github.com/zacharyrnewton
-https://github.com/artemsheludko/reked
+
+[Zachary Newton](https://github.com/zacharyrnewton)
+[Reked Jekyll Theme](https://github.com/artemsheludko/reked)
 Netlify
