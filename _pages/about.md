@@ -5,7 +5,9 @@ header: What is SaaS Generalist?
 permalink: /about/
 ---
 
-I have a vision.
+SaaS Generalist is a blog that will help early stage SaaS employees grow in their career by becoming well rounded professionals. But...
+
+I have a bigger vision.
 
 To build more generalists in the Indian SaaS ecosystem, especially among those in their early career.
 

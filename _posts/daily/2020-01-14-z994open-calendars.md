@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Leaders, open your calendars!
+title:  Leaders, open up your calendars NOW!
 date:   2020-01-15
 permalink: /daily/critical-feedback-conversations-uncomfortable
 categories: daily

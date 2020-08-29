@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Zoom brainstorming sessions suck
+title:  Why Zoom brainstorming sessions suck
 date:   2020-01-15
 permalink: /daily/zoom-brainstorming-sucks
 categories: daily

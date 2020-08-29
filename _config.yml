@@ -20,9 +20,9 @@ pinterest: # Add your Pinterest handle
 email: yenceesanjeev@gmail.com # Add your Email address
 
 # Hero Section
-hero: false # To enable the section hero, use the value true. To turn off use the value false.
+hero: true # To enable the section hero, use the value true. To turn off use the value false.
 hero-title: SaaS Generalist # Add your hero title
-hero-subtitle:  # Add your hero subtitle
+hero-subtitle: Resources to build & grow your career in SaaS  # Add your hero subtitle
 hero-image:  # Add background image in section hero
 
 # Footer
