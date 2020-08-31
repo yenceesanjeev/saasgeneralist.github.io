@@ -3,7 +3,7 @@ logo: "images/logo.svg" # You can add own logo image.
 description: SaaS Generalist is an attempt to build more generalists amongst the early stage SaaS employees
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "https://saasgeneralist.com/" # The base hostname & protocol for your site, e.g. http://example.com
-title_image:
+title_image: /images/cover/website-home.png
 
 # Author Settings
 author:
