@@ -2,7 +2,7 @@
 layout: post
 title:  Here’s why every customer interaction is as delicate as your first date!
 date:   2020-03-15
-image:  images/customer-first-date-blog-cover.jpeg
+image:  /images/customer-first-date-blog-cover.jpeg
 tags:   [Culture]
 permalink: /post/here-s-why-every-customer-interaction-is-as-delicate-as-your-first-date
 categories: blog

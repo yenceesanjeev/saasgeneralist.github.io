@@ -2,7 +2,7 @@
 layout: post
 title:  Associate CEO — who are they and why you need them
 date:   2020-04-01
-image:  images/associate-ceo-blog-cover.jpg
+image:  /images/associate-ceo-blog-cover.jpg
 tags:   [Career]
 permalink: /post/associate-ceo-who-are-they-and-why-you-need-them
 categories: blog

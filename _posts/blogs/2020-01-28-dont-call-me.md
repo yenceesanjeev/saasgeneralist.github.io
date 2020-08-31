@@ -2,7 +2,7 @@
 layout: post
 title:  “Don’t call me. I won’t pick up the phone”
 date:   2020-01-28
-image:  images/dont-call-me-blog-cover.png
+image:  /images/dont-call-me-blog-cover.png
 tags:   [Culture]
 permalink: /post/don-t-call-me-i-won-t-pick-up-the-phone
 categories: blog
