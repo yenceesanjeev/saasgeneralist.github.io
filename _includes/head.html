@@ -24,10 +24,10 @@
 
      {% if page.image %}
 
-     <meta name="twitter:image" content="https://blog.hubspot.com/hs-fs/hubfs/lyft-twitter-header.jpg"/>
+     <meta name="twitter:image" content="{{ site.url }}{{ page.image }}"/>
      {% else %}
 
-     <meta name="twitter:image" content="https://blog.hubspot.com/hs-fs/hubfs/lyft-twitter-header.jpg"/>
+     <meta name="twitter:image" content="{{ site.url }}{{ site.title_image }}"/>
      {% endif %}
      <!-- end of Twitter cards -->
 
