@@ -2,8 +2,8 @@
 layout: post
 title:  Social media is evil but not optional
 date:   2020-04-14
-image:  /images/social-media-fight.jpg
-tags:   [Product]
+image:  /images/social-media-fight.png
+tags:   [Culture]
 permalink: /post/social-media-evil-not-optional
 categories: blog
 ---
