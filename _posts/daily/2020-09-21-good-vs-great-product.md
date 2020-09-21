@@ -1,29 +1,24 @@
 ---
 layout: post
-title:  Avoid certifications
+title:  Good Product vs Great Product
 date:   2020-09-21
-permalink: /daily/avoid-certifications
+permalink: /daily/good-vs-great-product
 categories: daily
 ---
 
-Avoid certifications, if you can. They're expensive and not always indicative of your knowledge on the topic
+A good product earns you customers and revenue.
+A great product earns you following and a fanbase.
 
-Do certifications:
+Signs of a good product:
 
-- If it's mandatory for a job
+- Customers are writing reviews on review websites
+- They're interacting heavily on your forums
+- Customers discover you through ads
+- Customers are happy using your product
 
-- If your employer is paying for it
+Signs of a great product:
 
-- You have dispensable cash and need an insignificant trophy for your learning
-
-If you really want to learn, try:
-
-- Go on YouTube and search for the topic
-
-- Read books that are recommended by great thinkers in that domain
-
-- Follow people who are doing what you want to learn
-
-Certificates give you a false sense of accomplishment but that's only short term.
-
-#Learning is never finite, it should never feel "done"
+- Customers are recording their ways of using your product and publishing on their blogs and YouTube accounts
+- There's a healthy community outside of your forums (Reddit, Facebook)
+- Your product is being recommended to their friends
+- Customers are excited, ecstatic and proud about using your product
