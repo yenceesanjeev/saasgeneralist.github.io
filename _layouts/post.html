@@ -75,7 +75,7 @@ layout: default
 				<div class="widget-recent">
 					<h5 class="widget__title">Recommended for you</h5>
 					<div class="recent-box">
-						{% for post in site.categories.blogs offset:0 limit:3 %}
+						{% for post in site.posts offset:0 limit:3 %}
 						<div class="recent-posts">
 							<div class="recent-posts__content">
 								{% if post.image and post.image != "" %}
