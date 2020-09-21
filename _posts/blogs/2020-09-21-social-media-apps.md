@@ -6,6 +6,7 @@ image:  /images/social-media-fight.png
 tags:   [Culture]
 permalink: /post/social-media-evil-not-optional
 categories: blog
+description: This post argues against the popular narrative of "uninstall social media" and prepares us for a fight, if it comes down to that
 ---
 In the year 2005, I was 13 and low on confidence. I couldn't string two sentences in English together and that made me very conscious. My school treated English as a subject and would make us memorise paragraphs of texts from books that I barely remember now. They couldn't care less about our ability to construct new sentences on our own, only our ability to mentally vomit from the text book matters. Thus, English would remain confined in my classroom until I discovered the Internet, more specifically social media.
 

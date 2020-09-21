@@ -73,20 +73,23 @@ layout: default
 				</div>
 
 				<div class="widget-recent">
-					<h5 class="widget__title">Recommended for you</h5>
+				<h5 class="widget__title">Recommended for you</h5>
 					<div class="recent-box">
-						{% for post in site.categories.blogs offset:0 limit:3 %}
+					{% for post in site.posts offset:0 limit:3 %}
 						<div class="recent-posts">
 							<div class="recent-posts__content">
-								{% if post.image and post.image != "" %}
-									<a class="recent-posts__image wow fadeIn" href="{{ post.url }}"
-										style="background-image: url('{{ post.image | relative_url }}')"></a>
-								{% else %}
-								{% endif %}
-									<p class="recent-posts__title"><a href="{{ post.url }}">{{ post.title }}</a></p>
+							{% if post.image and post.image != "" %}
+							<a class="recent-posts__image wow fadeIn" href="{{ post.url }}"
+							style="background-image: url('{{ post.image | relative_url }}')"></a>
+							{% else %}
+							<a class="recent-posts__image wow fadeIn" href="{{ post.url }}"
+							style="background-color: white; color:black; text-align:center; font-family: ui-monospace; font-size: xx-large; display: flex;
+				    align-items: center;"> {{ post.title }} </a>
+							{% endif %}
+							<p class="recent-posts__title"><a href="{{ post.url }}">{{ post.title }}</a></p>
 							</div>
 						</div>
-						{% endfor %}
+					{% endfor %}
 					</div>
 				</div>
 
