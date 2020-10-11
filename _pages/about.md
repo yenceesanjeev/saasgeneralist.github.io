@@ -15,4 +15,4 @@ Traditional career wisdom forces us to be specalists. We have more than enough r
 
 Today, saasgeneralist.com is simply a blog where I document my ideas. But it can be much bigger.
 
-You can find me on Twitter - @yenceesanjeev
+You can find me on Twitter - [@yenceesanjeev](https://twitter.com/yenceesanjeev)
