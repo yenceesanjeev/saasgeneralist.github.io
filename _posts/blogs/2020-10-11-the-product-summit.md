@@ -4,7 +4,7 @@ title:  Social media is evil but not optional
 date:   2020-04-14
 image:  /images/the_prod_summit.png
 tags:   [Culture]
-permalink: /post/social-media-evil-not-optional
+permalink: /post/the-product-summit-summary
 categories: blog
 description: This post argues against the popular narrative of "uninstall social media" and prepares us for a fight, if it comes down to that
 ---
