@@ -10,8 +10,11 @@ description: This post argues against the popular narrative of abstaining from s
 ---
 
 In the year 2005, I was 13 and low on confidence. I couldn't string two sentences in English together and that made me very conscious. My school treated English as a subject and would make us memorise paragraphs of texts from books that I barely remember now. They couldn't care less about our ability to construct new sentences on our own, only our ability to mentally vomit from the text book matters. Thus, English would remain confined in my classroom until I discovered the Internet, more specifically social media.
+
 Fast forward to 2020, I'm comfortably able to write my thoughts in English at a typing speed that almost matches my thinking speed. In retrospect, my ability to communicate in English gave me everything I have today and social media is how I learnt to communicate. What 15 years of formal education couldn't do, social media platforms did it almost effortlessly.
+
 This is why I have trouble buying into the narrative of "Uninstall all your social media apps right now". This has resurfaced again, thanks to the Netflix documentary - "The Social Dilemma"
+
 Yes, companies like Google and Facebook are mining our attention for money. How can that be good? It is not good. It isn't. But how can abstinence be good as well? Hear me out as I chart an alternate path
 
 # How did it all get screwed up?
