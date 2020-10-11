@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  Social media is evil but not optional
+title:  The Product Summit - Notes
 date:   2020-04-14
 image:  /images/the_prod_summit.png
-tags:   [Culture]
+tags:   [Product]
 permalink: /post/the-product-summit-summary
 categories: blog
-description: This post argues against the popular narrative of "uninstall social media" and prepares us for a fight, if it comes down to that
+description: This is a curated post from the product summit 2020
 ---
 
-The Product Summit - Notes
+
 
 Zerodha Key Note - The Growth Mindset by Nithin Kamath
 - "You can't ever predict these up and downs in entrepreneurship"
