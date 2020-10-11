@@ -9,8 +9,6 @@ categories: blog
 description: This is a curated post from the product summit 2020
 ---
 
-# The Product Summit - Notes
-
 ## Zerodha Key Note - The Growth Mindset by [Nithin Kamath](https://twitter.com/Nithin0dha)
 - "You can't ever predict these up and downs in entrepreneurship"
 - "All my reading happened in the last 2-3 years"
@@ -384,3 +382,5 @@ Panel: [Ranjit Radhakrishnan](https://twitter.com/ranjitr) [Sameer Chavan](https
 - "In some sense even if they don't want to be, Google is a gatekeeper when it comes to apps"
 - "We like app stores because they protect us from malware and stuff. But if we look at the PC ecosystem, you didn't have an app store to download PC applications”
 - “There are things that customers don’t want but businesses are excited about. They (Cricbuzz) are super focused on what customers want”
+
+I tweet about product, productivity, tech and a lot of memes. If you want to connect with me, Twitter (@yenceesanjeev) would be the best place
