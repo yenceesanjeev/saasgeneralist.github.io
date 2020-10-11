@@ -4,7 +4,7 @@ title:  The Product Summit - Notes
 date:   2020-10-11
 image:  /images/social-media-fight.png
 tags:   [Culture]
-permalink: /post/the-product-summit-notes
+permalink: /post/social-media-apps
 categories: blog
 description: Curated insights from The Product Summit 2020
 ---
