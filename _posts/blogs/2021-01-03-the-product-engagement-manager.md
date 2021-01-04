@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  Product Engagement Maturity Index
+title:  Product Experience Maturity Index
 date:   2021-01-04
-image:  /images/prodengage/product-engagement-maturity-index.png
+image:  /images/prodengage/product-experience-maturity-index.png
 tags:   [Product]
-permalink: /post/the-product-engagement-maturity-index
+permalink: /post/the-product-experience-maturity-index
 categories: blog
-description: SaaS products don't need writers. It needs engagement managers.
+description: The Product Experience Maturity Index is a five level index that shows you how to better your product experience.
 ---
 We no longer build complicated products. We build complex products. Let me explain.
 
@@ -22,13 +22,13 @@ B2B, B2C, B2F - it's all the B2H. H as in Human. If you tell me that your softwa
 
 What your product __needs__ is not documentation, it just needs to be usable.
 
-## The Product Engagement Maturity Index
+## The Product Experience Maturity Index
 
-![product engagement maturity index](/images/prodengage/product-engagement-maturity-index.png)
+![product Experience maturity index](/images/prodengage/product-experience-maturity-index.png)
 
 When in doubt, break things down into 3 or 5. Always makes you look smart.
 
-Here's what I consider the five levels of product engagement
+Here's what I consider the five levels of Product Experience
 
 ### Level 0 - Users need to be trained
 This is officially not a level but if you're here--I hope you aren't.
@@ -97,7 +97,7 @@ What are the downsides?
 - Videos take a lot of time to create
 
 How do you move to the next level?
-- Invest in product engagement platforms like AppCues or Pendo
+- Invest in product experience platforms like AppCues or Pendo
 - Incentivise product teams to reduce complexity so users don't need a video
 - Hire UX writers
 
@@ -109,7 +109,7 @@ What are the signs?
 - Newer features get discovered and used without user intervention
 
 What are the downsides?
-- You got to pay the product engagement platform if you're using them
+- You got to pay the product experience platform if you're using them
 - Someone needs to take ownership of this experience and it usually falls between product and marketing
 - There are possibilities for mistakes to hit production since the deployment process isn't as tight as code deployment
 
@@ -118,7 +118,7 @@ How do you move to the next level?
 - Usability tests. Loads of it.
 
 ### Level 5 - Users need no help
-This is the holy grail of product engagement. At this level, your users don't have any trouble using the product. For all you know, you could send your customer support team on a vacation and it has zero impact. It's utopic but not impossible.
+This is the holy grail of product experience. At this level, your users don't have any trouble using the product. For all you know, you could send your customer support team on a vacation and it has zero impact. It's utopic but not impossible.
 
 What are the signs
 - Support receives zero "How do I--" tickets
@@ -134,7 +134,7 @@ Ah, good question. Traditionally, this responsibility has fallen with technical 
 But, there's still some ambiguity. Let me add to it. What if we invented a new role?
 
 ### Product Experience Manager, perhaps?
-As we move up the product engagement maturity index, it's evident that this role has very little to do with writing. This, clearly, is a product role.
+As we move up the product experience maturity index, it's evident that this role has very little to do with writing. This, clearly, is a product role.
 
 The Product Experience Manager (PEM, why not) should be responsible for the end to end product experience. This starts when a user enters the product from the website till the time that they stop paying the bill. The PEM need to work closely with design, marketing, developers and support.
 
