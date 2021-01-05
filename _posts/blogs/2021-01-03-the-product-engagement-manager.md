@@ -35,7 +35,7 @@ This is officially not a level but if you're here--I hope you aren't.
 
 What are the signs?
 - Users expect to be trained before they can start getting value from the product
-- Users expect you to record training sessions so that they can share it with other Users
+- Users expect you to record training sessions so that they can share it with other users
 - Users are ready to pay for training
 
 What are the downsides?
@@ -82,7 +82,6 @@ What are the downsides?
 How do you move to the next level?
 - Incentivise product teams to eliminate need for solution articles i.e solve it within the product
 - Convert those articles into short video clips
-
 
 ### Level 3 - Users need to watch a video
 Videos are much better than text based articles. Users can follow along with a video without getting lost as they can literally see whats on the screen
@@ -142,4 +141,4 @@ Wait, that sounds like a product managers responsibility. Well, yes it does but 
 
 Today, technical writers are evolving into this role without shedding the title. And the title sometimes gets in the way. By creating a new role and cementing the responsibilities, it would enable yesterday's writers to fully control the experience end to end.
 
-Let me know what you thought of this :) I respond quickly to Twitter DMs - @yenceesanjeev
+Let me know what you thought of this :) I respond quickly to Twitter DMs - [@yenceesanjeev](https://twitter.com/yenceesanjeev)
